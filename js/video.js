@@ -30,7 +30,7 @@
   },
   settings: {
     plugins : ['flash', 'silverlight'],
-    pluginPath : '/js/mediaelement-js/',
+    pluginPath : 'js/mediaelement-js/',
     flashName : 'flashmediaelement.swf',
     silverlightName : 'silverlightmediaelement.xap',
     // if the <video width> is not specified, this is the default
